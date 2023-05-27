@@ -231,20 +231,18 @@ In 1988, Bijli took over the running of the cinema hall, which was revamped in
 ```
 
 ## Output:
-![output](./screenshots/out1.png)
+![Screenshot (38)](https://github.com/niveshaprabu/places-around-me/assets/122986499/b9f3025a-7d53-498f-acbd-47f5f0bd10f1)
+![out2new](https://github.com/niveshaprabu/places-around-me/assets/122986499/fec1942b-a966-4826-9560-bfc35126e18d)
+![out3](https://github.com/niveshaprabu/places-around-me/assets/122986499/07b4ef61-3f61-4969-8921-efbec650f92d)
+![out4](https://github.com/niveshaprabu/places-around-me/assets/122986499/d473a1c5-07b5-4eed-9d5c-d608313b70c8)
+![out6](https://github.com/niveshaprabu/places-around-me/assets/122986499/6c4c66a4-b458-4a02-ad49-fbfdc56da926)
+![out5](https://github.com/niveshaprabu/places-around-me/assets/122986499/63185f5d-69e1-43c4-ada8-75851528a973)
 
-![output](./screenshots/out2.png)
 
-![output](./screenshots/out3.png)
-
-![output](./screenshots/out4.png)
-
-![output](./screenshots/out5.png)
-
-![output](./screenshots/out6.png)
 
 ## HTML Validator
-![HTML Validator](./screenshots/valid.png)
+![valid](https://github.com/niveshaprabu/places-around-me/assets/122986499/dc2d4bf6-d3b0-4ce1-9471-4e044a80687b)
+
 
 ## Result:
 The program for implementing image map is executed successfully
